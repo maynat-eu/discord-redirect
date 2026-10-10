@@ -1,1 +1,1 @@
-# discord-redirect
+# https://discord.maynat.eu
